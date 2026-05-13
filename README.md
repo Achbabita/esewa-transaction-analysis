@@ -1,4 +1,4 @@
-# eSewa-transaction-analysis
+# esewa-transaction-analysis
 
 ## 📸 Dashboard Preview
 
@@ -77,12 +77,6 @@ The interactive Power BI dashboard includes:
 - Merchant category insights
 - City-wise transaction analysis
 - Interactive slicers and filters
-
----
-
-## 📸 Dashboard Preview
-
-<img src="images/dashboard.png" width="900">
 
 ---
 
